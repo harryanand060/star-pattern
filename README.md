@@ -1,21 +1,24 @@
 # star-pattern
 
 ###Pattern1
-
+    
+    ![img_1.png](img_1.png)
+    
     for row in range(num):
         for col in range(row):
             print("*",end=" ")
         print("\n")
-
-    *
-
-    * *
-
-    * * *
-
-    * * * *
-
-    * * * * *
+        
+        
+        *
+    
+        * *
+    
+        * * *
+    
+        * * * *
+    
+        * * * * *
 
 ###Pattern2
 
