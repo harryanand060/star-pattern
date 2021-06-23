@@ -3,6 +3,12 @@
 ###Pattern1
     
     ![img_1.png](img_1.png)
+
+    | Tables        | Are           | Cool  |
+    | ------------- |:-------------:| -----:|
+    | col 3 is      | right-aligned | $1600 |
+    | col 2 is      | centered      |   $12 |
+    | zebra stripes | are neat      |    $1 |
     
     for row in range(num):
         for col in range(row):
